@@ -11,7 +11,7 @@ Depuis le dossier backend :
 Telechargez et ouvrez Node.js
 Installer node_module avec `npm install`
 Dans le fichier ".env" rentrer les informations manquantes 
-enfin taper `npm run start`
+Enfin taper `npm run start`
 
 Le serveur doit fonctionner sur "localhost" avec le port par défaut "8080"
 
