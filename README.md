@@ -6,7 +6,7 @@ Pour utiliser correctement l'API, veuillez suivre ces instructions :
  Créer dans mysql une database nommée "groupomania_test"
  
 
- ## groupomania - Backend
+ ## Groupomania - Backend
 Depuis le dossier backend :
 Telechargez et ouvrez Node.js
 Installer node_module avec `npm install`
