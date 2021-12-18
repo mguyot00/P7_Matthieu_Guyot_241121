@@ -9,6 +9,7 @@ Pour utiliser correctement l'API, veuillez suivre ces instructions :
  ## Groupomania - Backend
 Depuis le dossier backend :
 Telechargez et ouvrez Node.js
+Creer un dossier `images`
 Installer node_module avec `npm install`
 Dans le fichier ".env" rentrer les informations manquantes 
 Enfin taper `npm run start`
